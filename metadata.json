@@ -1,0 +1,7 @@
+{
+  "name": "Samuel Urban & Wild Photography",
+  "description": "A professional photography portfolio for Samuel Urban & Wild, showcasing weddings, portraits, and landscapes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
