@@ -46,7 +46,7 @@ export const translations = {
     contact_social_title: 'Follow Me or Reach Out Directly',
 
     // Footer
-    footer_copyright: 'Samuel Urban & Wild. All Rights Reserved.',
+    footer_copyright: 'Samuel Urban & Wild. @2025. All Rights Reserved.',
 
     // Image Modal
     image_modal_location: 'Location',
@@ -117,7 +117,7 @@ export const translations = {
     contact_social_title: 'Sígueme o Contáctame Directamente',
 
     // Footer
-    footer_copyright: 'Samuel Urban & Wild. Todos los Derechos Reservados.',
+    footer_copyright: 'Samuel Urban & Wild. @2025. Todos los Derechos Reservados.',
 
     // Image Modal
     image_modal_location: 'Ubicación',
